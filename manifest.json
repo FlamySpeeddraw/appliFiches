@@ -3,7 +3,7 @@
   "name": "Déplacement Athemes application",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#FFF",
   "background_color": "#ffffff",
   "icons": [
     {
