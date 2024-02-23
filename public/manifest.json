@@ -1,9 +1,10 @@
 {
-  "short_name": "Athemes",
+  "short_name": "Fiches automatisées",
   "name": "Déplacement Athemes application",
-  "start_url": "/",
+  "start_url": ".",
+  "scope":"/",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#FFF",
   "background_color": "#ffffff",
   "icons": [
     {
